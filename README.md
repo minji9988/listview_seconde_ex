@@ -1,6 +1,6 @@
 # 앱 개요
 
-<img width="30%" src="https://user-images.githubusercontent.com/104492622/227769553-2d9fd183-ada0-4c35-81d8-60760630ca44.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/104492622/227769553-2d9fd183-ada0-4c35-81d8-60760630ca44.gif"/>
 
 - 리스트의 item 클릭 시 toast 메세지가 뜨도록 한다.
 - 이때 toast 메세지는 data model의 첫 번째 요소만 뜨도록 한다.
